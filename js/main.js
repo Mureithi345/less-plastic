@@ -263,7 +263,7 @@ function galleryMasonaryLayout() {
 function eventTime() {
     if ($("#timer").length) {
         $('#timer').countdown({
-            date: '11/11/2018'
+            date: '20/09/2024'
         });
     }
 }
